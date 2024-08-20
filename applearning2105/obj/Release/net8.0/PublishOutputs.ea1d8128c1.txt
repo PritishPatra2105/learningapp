@@ -1,0 +1,7 @@
+C:\AZ-204\applearning2105\bin\Publish\applearning2105.exe
+C:\AZ-204\applearning2105\bin\Publish\appsettings.Development.json
+C:\AZ-204\applearning2105\bin\Publish\appsettings.json
+C:\AZ-204\applearning2105\bin\Publish\applearning2105.dll
+C:\AZ-204\applearning2105\bin\Publish\applearning2105.deps.json
+C:\AZ-204\applearning2105\bin\Publish\applearning2105.runtimeconfig.json
+C:\AZ-204\applearning2105\bin\Publish\applearning2105.pdb
